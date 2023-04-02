@@ -1,0 +1,28 @@
+/*
+font-family: 'Nunito', sans-serif;
+font-family: 'Roboto', sans-serif;
+*/
+.landing {
+  background-image: url("/background-header.png");
+  background-size: 100%;
+  text-align: center;
+  color: #fff;
+  font-family: "Nunito", sans-serif;
+  font-weight: bold;
+  padding: 120px 50px;
+}
+.landing h1 {
+  color: #fff;
+  font-family: "Nunito", sans-serif;
+  font-weight: bold;
+  font-size: 72px;
+  padding-bottom: 4px;
+}
+.landing h3 {
+  color: #fff;
+  font-family: "Nunito", sans-serif;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 35px;
+  padding-top: 4px;
+}
