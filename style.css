@@ -44,8 +44,8 @@ font-family: 'Roboto', sans-serif;
 }
 .foods img {
   max-width: 100%;
-  weight: 560px;
-  height: 350px auto;
+
+  height: 650px auto;
   margin-bottom: 5px;
 }
 /*footer*/
