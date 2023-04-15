@@ -53,12 +53,13 @@ footer {
   background-color: #f9f7fe;
   border: 1px solid #f9f7fe;
   padding: 0;
+  margin-bottom: 0;
 }
 footer img {
-  margin: 32px 70px 32px 300px;
+  margin: 32px 70px 32px 60px;
 }
 .col-md-4 {
-  width: 30%;
+  width: 29%;
 }
 .icons {
   margin: 20px 70px 30px 80px;
@@ -69,8 +70,9 @@ footer img {
 }
 footer p {
   margin: 30px 70px 20px 20px;
+
   font-family: "Roboto", sans-serif;
   font-size: 22px;
   font-weight: normal;
-  text-align: right;
+  text-align: left;
 }
