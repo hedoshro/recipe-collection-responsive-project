@@ -5,12 +5,12 @@ font-family: 'Roboto', sans-serif;
 
 .landing {
   background-image: url("/images/background-header.png");
-  background-size: 50%;
+  background-size: 100%;
   text-align: center;
   color: #fff;
   font-family: "Nunito", sans-serif;
   font-weight: bold;
-  padding: 120px 50px;
+  padding: 18px 50px;
   filter: brightness(1.2);
   margin-top: 140px;
 }
